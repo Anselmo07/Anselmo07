@@ -9,7 +9,7 @@ Soy un **Full Stack Developer** con orientacion en **BACKEND** apasionado por la
 ## 🛠️ ¿Qué hago?
 Actualmente me dedico a reliazar proyectos que me permiten avanzar en mi formación como programador y como profesional, . 
 
-## ¿A dónde me dirijo?
+## 🌍 ¿A dónde me dirijo?
 Mi objetivo es cambiar el mundo con mi codigo
 
 No solo programar por la demanda que hay en el mercado. Sino que realmente me encanta lo que hago y creeo mejorar la capacidad de adaptacion para los usuarios, encontrar soluciones a problemas practicos y mejorar la calidad de vida. 
@@ -36,8 +36,8 @@ Sistema de **Aplicación para gestionar citas con validación de fechas y contro
 ---
 
 ## 📫 Contacto
-- **LinkedIn:** Anselmo Vecchio
-- **GitHub:** Anselmo07
+- **LinkedIn:** [Anselmo Vecchio](https://www.linkedin.com/in/anselmo-vecchio-26bb312b9/)
+- **GitHub:** [Anselmo07](https://github.com/tuusuario)
 - **Email:** anselmo.vecchio.jose@gmail.com
 
 ---
