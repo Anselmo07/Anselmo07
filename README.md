@@ -37,7 +37,7 @@ Sistema de **Aplicación para gestionar citas con validación de fechas y contro
 
 ## 📫 Contacto
 - **LinkedIn:** [Anselmo Vecchio](https://www.linkedin.com/in/anselmo-vecchio-26bb312b9/)
-- **GitHub:** [Anselmo07](https://github.com/tuusuario)
+- **GitHub:** [Anselmo07](https://github.com/Anselmo07)
 - **Email:** anselmo.vecchio.jose@gmail.com
 
 ---
