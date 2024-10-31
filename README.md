@@ -1,10 +1,45 @@
-<h1 align="center">Hi 👋, I'm Anselmo Vecchio</h1>
-<h3 align="center">A passionate frontend developer with a BACKEND orientation</h3>
+# ¡Hola! Soy Anselmo Vecchio 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anselmo vecchio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anselmo vecchio" height="30" width="40" /></a>
-</p>
+##¿Quién soy?
+Soy un **Full Stack Developer** con orientacion en **BACKEND** apasionado por la tecnología y el desarrollo de soluciones innovadoras. Con experiencia en **React, Node.js, NestJS** y **PostgreSQL**, disfruto creando aplicaciones que combinan un diseño atractivo con una arquitectura eficiente.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## ¿Qué hago?
+Actualmente me dedico a reliazar proyectos que me permiten avanzar en mi formación como programador y como profesional, . 
+
+## ¿A dónde me dirijo?
+Mi objetivo es cambiar el mundo con mi codigo
+
+No solo programar por la demanda que hay en el mercado. Sino que realmente me encanta lo que hago y creeo mejorar la capacidad de adaptacion para los usuarios, encontrar soluciones a problemas practicos y mejorar la calidad de vida. 
+
+
+## 🚀 Tecnologías y Herramientas
+
+- **Lenguajes de Programación:** JavaScript, TypeScript
+- **Frontend:** React, CSS, HTML
+- **Backend:** Node.js, NestJS
+- **Bases de Datos:** PostgreSQL
+- **Herramientas:** Git, Cloudinary, APIs REST, Metodologías Ágiles (Scrum)
+
+---
+
+## 💼 Proyectos Destacados
+
+### Ecommerce_Henry(#)
+Aplicación desarrollada en Node y nest para **Facilitar la compra de productos personalizados con una experiencia de usuario fluida y confiable.**.
+
+### Gestor de turnos(#)
+Sistema de **Aplicación para gestionar citas con validación de fechas y control de estados con funcionalidades de validación de días laborales, cancelación de turnos.**, enfocado en **React, Node.js, NestJS, PostgreSQL, Cloudinary **.
+
+---
+
+## 📫 Contacto
+- **LinkedIn:** Anselmo Vecchio
+- **GitHub:** Anselmo07
+- **Email:** anselmo.vecchio.jose@gmail.com
+
+---
+
+Siempre en busca de nuevos desafíos y oportunidades para aprender. ¡Colaboremos en algo grandioso!
+
