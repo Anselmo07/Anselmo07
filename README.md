@@ -7,7 +7,7 @@ Soy un **Full Stack Developer** con orientacion en **BACKEND** apasionado por la
 ---
 
 ## 🛠️ ¿Qué hago?
-Actualmente me dedico a reliazar proyectos que me permiten avanzar en mi formación como programador y como profesional, . 
+Actualmente me dedico a reliazar proyectos que me permiten avanzar en mi formación como programador y como profesional. 
 
 ## 🌍 ¿A dónde me dirijo?
 Mi objetivo es cambiar el mundo con mi codigo
@@ -31,7 +31,7 @@ No solo programar por la demanda que hay en el mercado. Sino que realmente me en
 Aplicación desarrollada en Node y nest para **Facilitar la compra de productos personalizados con una experiencia de usuario fluida y confiable.**.
 
 ### Gestor de turnos(#)
-Sistema de **Aplicación para gestionar citas con validación de fechas y control de estados con funcionalidades de validación de días laborales, cancelación de turnos.**, enfocado en **React, Node.js, NestJS, PostgreSQL, Cloudinary **.
+Sistema de **Aplicación para gestionar citas con validación de fechas y control de estados con funcionalidades de validación de días laborales, cancelación de turnos.**, enfocado en **React, Node.js, NestJS, PostgreSQL, Cloudinary**.
 
 ---
 
