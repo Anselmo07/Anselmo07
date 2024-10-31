@@ -1,11 +1,12 @@
 # ¡Hola! Soy Anselmo Vecchio 👋
 
-##¿Quién soy?
+## 🧑 ¿Quién soy?
+
 Soy un **Full Stack Developer** con orientacion en **BACKEND** apasionado por la tecnología y el desarrollo de soluciones innovadoras. Con experiencia en **React, Node.js, NestJS** y **PostgreSQL**, disfruto creando aplicaciones que combinan un diseño atractivo con una arquitectura eficiente.
 
 ---
 
-## ¿Qué hago?
+## 🛠️ ¿Qué hago?
 Actualmente me dedico a reliazar proyectos que me permiten avanzar en mi formación como programador y como profesional, . 
 
 ## ¿A dónde me dirijo?
